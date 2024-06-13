@@ -19,7 +19,6 @@
 
 - **Ejemplos de aplicaciones:**
   - `app.votacion` (loadBalancer y nodePorts)
-  - `redis-config`
 
 ## Cómo usar
 
@@ -41,10 +40,8 @@
 - [Documentación oficial de Kubernetes](https://kubernetes.io/docs/home/)
 - [Guía de inicio rápido](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 
-## Contribuciones
+## Autor
 
-Este repositorio es parte de mi proceso de aprendizaje. Si tienes sugerencias o mejoras, ¡siéntete libre de hacer un fork y enviar un pull request!
+Mario González Solas
+- [Mi LinkedIn](https://www.linkedin.com/in/mario-gonz%C3%A1lez-solas/)
 
----
-
-Puedes personalizar este README según tus necesidades específicas y el contenido de tu repositorio.
