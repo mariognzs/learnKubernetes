@@ -41,10 +41,3 @@
 - [Documentación oficial de Kubernetes](https://kubernetes.io/docs/home/)
 - [Guía de inicio rápido](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 
-## Contribuciones
-
-Este repositorio es parte de mi proceso de aprendizaje. Si tienes sugerencias o mejoras, ¡siéntete libre de hacer un fork y enviar un pull request!
-
----
-
-Puedes personalizar este README según tus necesidades específicas y el contenido de tu repositorio.
