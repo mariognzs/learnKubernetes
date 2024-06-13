@@ -41,3 +41,8 @@
 - [Documentación oficial de Kubernetes](https://kubernetes.io/docs/home/)
 - [Guía de inicio rápido](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 
+## Autor
+
+Mario González Solas
+- [Mi LinkedIn](https://www.linkedin.com/in/mario-gonz%C3%A1lez-solas/)
+
