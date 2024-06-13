@@ -19,7 +19,6 @@
 
 - **Ejemplos de aplicaciones:**
   - `app.votacion` (loadBalancer y nodePorts)
-  - `redis-config`
 
 ## Cómo usar
 
